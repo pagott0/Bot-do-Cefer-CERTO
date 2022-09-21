@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "node-cron": "^3.0.2",
+    "prompt-sync": "^4.2.0",
+    "puppeteer": "^18.0.4"
+  },
+  "name": "ceferbot",
+  "description": "Bot that schedules your nearest gym for you.",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pagott0/CeferBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pagott0/CeferBot/issues"
+  },
+  "homepage": "https://github.com/pagott0/CeferBot#readme"
+}
